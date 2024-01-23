@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4810866454156447237}
   - component: {fileID: 357287223371904216}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Meteor
-  m_TagString: Untagged
+  m_TagString: Meteor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48,6 +48,8 @@ MonoBehaviour:
   _renderer: {fileID: 4102330968905429318}
   _collider: {fileID: 0}
   _sprites: []
+  _speedAngularMin: 15
+  _speedAngularMax: 20
 --- !u!1 &8128495294209927645
 GameObject:
   m_ObjectHideFlags: 0
@@ -59,7 +61,7 @@ GameObject:
   - component: {fileID: 7474996643098133772}
   - component: {fileID: 4102330968905429318}
   - component: {fileID: 8908262699121236391}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -19,6 +19,8 @@ The project uses a free asset package from Kenney, [Space Shooter Redux](https:/
 C# support is out-of-box. You can use the editor of your choice.
 You can create *.cs files and new directories, if needed.
 
+The project is using the old Input System. If you wish to use the New Input System, please set it up *before* the interview takes place.
+
 ### Game Design Document
 
 This document will be shown to you when meeting your pair, so you can both decide how to progress.
